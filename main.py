@@ -18,5 +18,5 @@ class Fizzbuzz():
         print(resultado)
 
 fizzbuzz = Fizzbuzz()
-numero = int(input("digite um numero entre 1 e 100: "))
+numero = int(input("digite um numero: "))
 fizzbuzz.main(numero)
